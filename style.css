@@ -1,0 +1,50 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 30px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ .object{
+   box-shadow:inset -1px -3px 3px lightblue;
+   height: 40px;
+ }
+ .object span{
+   white-space: pre-line;
+ }
+ .accuracy{
+  box-shadow:inset -1px -3px 3px royalblue;
+  height: 40px;
+ }
+ .accuracy span{
+  white-space: pre-line;
+ }
+ canvas{
+   border:ridge 10px lightskyblue;
+   box-shadow:5px 5px 5px grey ;
+ }
+ .copy_right_footer{
+   background: deepskyblue;
+   bottom: 0;
+   width: 100%;
+   line-height: 15px;
+   margin-top: 400px;
+   position: fixed;
+   text-align: center;
+ }
